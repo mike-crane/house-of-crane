@@ -1,0 +1,17 @@
+{
+  "name": "house-of-crane",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gatsby develop -p 9988 -o"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gatsby": "^2.17.11",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  }
+}
